@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Guevara Aller</h1>
 <h3 align="center">A passionate backend and frontend developer from Peru</h3>
 
-- 💬 Ask me about **vue, laravel, c#, java**
+- 💬 Ask me about **Vue, Laravel, C#, Lava**
 
 - 📫 How to reach me **rafa291996@hotmail.com**
 
