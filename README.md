@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Guevara Aller</h1>
-<h3 align="center">A passionate backend and frontend developer from Peru</h3>
+<h3 align="center">Backend and Frontend specialist from Peru</h3>
 
 - 💬 Ask me about **Vue, Laravel, C#, Lava**
 
