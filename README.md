@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rafael Guevara Aller</h1>
-<h3 align="center">Backend and Frontend from Peru</h3>
+<h1 align="center">Hi there! I'm Rafael Guevara Aller, Full Stack Web Developer</h1>
 
-- 💬 Ask me about **Vue, Laravel, C#, Java**
+- 💬 Ask me about **Vue, React, Laravel, C#, Java**
 
 - 📫 How to reach me **rafa291996@hotmail.com**
 
