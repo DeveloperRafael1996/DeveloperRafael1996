@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Rafael Guevara Aller, Full Stack Web Developer</h1>
 
-- 💬 Ask me about **Vue, React, Laravel, C#, Java, NodeJS AND Typescript**
+- 💬 Ask me about **Vue, React, Laravel, C#, Java, NodeJS, TypeScript**
 
 - 📫 How to reach me **rafa291996@hotmail.com**
 
