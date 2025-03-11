@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **Vue, React, Laravel, C#, Java, NodeJS, TypeScript**
 
-- 📫 How to reach me **rafa291996@hotmail.com**
+- 📫 How to reach me **djzm80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
